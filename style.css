@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    margin: 5%;
+    background-color: antiquewhite;
+    width: 16rem;
+    box-shadow: 5px 5px 5px 0px rgba(0, 0, 0, 0.8);
+    margin: 2% auto;
+
+
+}
+.card img{
+    width: 16rem;
+    height: 16rem;
+}
+.card h2{
+    color: white;
+    font-family: cursive;
+    text-align: start;
+    margin-left: 5px;
+}
+.card p{
+    cursor: white;
+    font-family: cursive;
+    margin-left: 5px;
+    margin-top: 15px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+    
+}

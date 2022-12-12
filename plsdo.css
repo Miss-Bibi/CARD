@@ -1,0 +1,99 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.base{
+    background-color: blanchedalmond;
+}
+.contain{
+    background-color: seagreen;
+    width: 70%;
+    margin: 50px auto;
+    padding: 20px;
+    align-content: center;
+}
+.button{
+    background-color: aquamarine;
+    color: brown;
+}
+.test{
+    color: brown;
+}
+.test h1{
+    font-family: initial;
+    font-size: 70px;
+}
+.test p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.test h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.press button{
+    background-color: aquamarine;
+    color: brown;
+    font-size: large;
+    margin-right: 5px;
+}
+.press{
+    margin: 10px;
+    padding: 10px;
+}
+.description p{
+    font-family: inherit;
+    font-size: large;
+    color: azure;
+}
+.description h3{
+    font-family: cursive;
+    font-size: large;
+    color: azure;
+    
+}
+.description{
+    display: flex;
+    margin-left:15%;
+    text-align: center;
+}
+
+.one {
+    text-align: center;
+    background-color: teal;
+    border-radius: 50%;
+    margin: 30px;
+    padding: 5%;
+
+}
+.two{
+    text-align: center;
+    background-color: teal;
+    border-radius: 50%;
+    margin: 30px;
+    padding: 5%;
+ 
+}
+.three{
+    text-align: center;
+    background-color: teal;
+    border-radius: 50%;
+    margin: 30px;
+    padding: 5%;
+
+}
+.view button{
+    background-color: olivedrab;
+    color: azure;
+    font-size: xx-large;
+    font-family: cursive;
+    margin-left: 70%;
+    margin-top: 20px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+    padding: 20px;
+    margin-bottom: 50px;
+}
